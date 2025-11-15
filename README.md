@@ -29,7 +29,7 @@ Match status / duration
 ## ✔️ Uses clean, reliable BeautifulSoup parsing logic
 
 ---
-#🛠️Technologies Used
+# 🛠️Technologies Used
 Component	Purpose
 Python 3	Core programming language
 Requests	Fetches HTML content
