@@ -84,19 +84,13 @@ with UTF-8-SIG encoding to support Arabic characters.
 ```
 yallakora-webscraper/
 │
-├── src/
-│   ├── scraper.py               # Main scraping logic
-│   ├── utils.py                 # Helper functions (optional)
-│   └── __init__.py
+├── source_code/
+│   ├── python_code.py               # Main scraping logic
 │
 ├── output/
 │   └── YallaKoraProject.csv     # Auto-generated after running the script
 │
-├── docs/
-│   └── README.md                # Documentation
-│
-├── .gitignore                   # Ignore venv, pycache, etc.
-├── requirements.txt             # Python dependencies
+├── README.md
 └── LICENSE                      # Optional MIT license
 ```
 
