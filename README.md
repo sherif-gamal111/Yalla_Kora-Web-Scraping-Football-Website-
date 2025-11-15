@@ -7,8 +7,8 @@ This tool is useful for football enthusiasts, data analysts, and developers who 
 ---
 # 📌Features
 
-##✔️ Scrapes match data for any date (MM/DD/YYYY)
-##✔️ Extracts the following information:
+## ✔️ Scrapes match data for any date (MM/DD/YYYY)
+## ✔️ Extracts the following information:
 
 Championship name
 
@@ -24,9 +24,9 @@ Broadcasting channel
 
 Match status / duration
 
-##✔️ Automatically saves results into a UTF-8 CSV file (supports Arabic text)
-##✔️ Error-tolerant — handles missing fields gracefully
-##✔️ Uses clean, reliable BeautifulSoup parsing logic
+## ✔️ Automatically saves results into a UTF-8 CSV file (supports Arabic text)
+## ✔️ Error-tolerant — handles missing fields gracefully
+## ✔️ Uses clean, reliable BeautifulSoup parsing logic
 
 ---
 #🛠️Technologies Used
@@ -44,7 +44,7 @@ pip install beautifulsoup4
 pip install lxml
 
 ---
-#🚀How It Works
+# 🚀How It Works
 
 The user inputs a date in the format:
 
@@ -80,7 +80,7 @@ YallaKoraProject.csv
 with UTF-8-SIG encoding to support Arabic characters.
 
 ---
-#📁Project Structure
+# 📁Project Structure
 .
 yallakora-webscraper/
 │
@@ -101,7 +101,7 @@ yallakora-webscraper/
 
 
 ---
-#▶️Usage
+# ▶️Usage
 
 Run the script:
 
@@ -121,12 +121,12 @@ File is created
 Your CSV file will be generated in the configured output path.
 
 ---
-#📝Sample Output (CSV)
+# 📝Sample Output (CSV)
 Championship	Match Status	Team A	Team B	Time	Score	Channel	Duration
 Egyptian Premier League	15 Nov 2025	Al Ahly	Zamalek	20:00	(1 - 1)	OnTime Sports	Finished
 
 ---
-#⚠️Notes
+# ⚠️Notes
 
 If YallaKora changes its HTML layout, the CSS selectors may need to be updated.
 
@@ -135,12 +135,12 @@ The script handles missing fields and marks them as "غير محدد" to avoid c
 Ensure you update the CSV output path to a location that exists on your machine.
 
 ---
-#📄License
+# 📄License
 
 This project is licensed under the MIT License.
 
 ---
-#🌟About Me
+# 🌟About Me
 
 Hi, I’m Sherif, a Data Engineer with a strong foundation in Industrial Engineering and specialized in Data Engineering.
 I hold a Bachelor of Engineering (BEng) in Industrial Engineering from Canadian International College (CIC) and a Microsoft Data Engineering degree from Digital Egypt Pioneers Initiative (DEPI).
