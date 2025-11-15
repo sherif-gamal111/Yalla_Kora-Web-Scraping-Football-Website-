@@ -81,7 +81,7 @@ with UTF-8-SIG encoding to support Arabic characters.
 
 ---
 # 📁Project Structure
-.
+```
 yallakora-webscraper/
 │
 ├── src/
@@ -98,7 +98,7 @@ yallakora-webscraper/
 ├── .gitignore                   # Ignore venv, pycache, etc.
 ├── requirements.txt             # Python dependencies
 └── LICENSE                      # Optional MIT license
-
+```
 
 ---
 # ▶️Usage
