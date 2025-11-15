@@ -122,9 +122,10 @@ Your CSV file will be generated in the configured output path.
 
 ---
 # 📝Sample Output (CSV)
-Championship	Match Status	Team A	Team B	Time	Score	Channel	Duration
-Egyptian Premier League	15 Nov 2025	Al Ahly	Zamalek	20:00	(1 - 1)	OnTime Sports	Finished
-
+```
+Championship	              Match Status	Team A	   Team B    Time    Score        Channel        Duration
+Egyptian Premier League         Final     Al Ahly    Zamalek   20:00   (1 - 1)    OnTime Sports    Finished
+```
 ---
 # ⚠️Notes
 
