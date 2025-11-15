@@ -1,4 +1,4 @@
-#YallaKora Football Matches Web Scraper
+# 🏆YallaKora Football Matches Web Scraper
 
 A Python web scraping project that extracts detailed football match information from YallaKora Match Center based on a user-provided date, then saves the results into a structured CSV file with full UTF-8 support.
 
